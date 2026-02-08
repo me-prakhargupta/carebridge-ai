@@ -80,7 +80,7 @@ export default function Support() {
             </header>
 
             {/* AI Response Card - Only shows when response exists */}
-            <div className="max-w-3xl mx-auto mt-8 transition-all duration-300 ease-in-out">
+            <div className="max-w-sm sm:max-w-3xl mx-auto mt-8 transition-all duration-300 ease-in-out">
                 {response && (
                     <div className="mb-10 animate-in fade-in slide-in-from-top-4 duration-500">
                         <div className="overflow-hidden rounded-2xl border border-blue-200 bg-white shadow-xl shadow-blue-900/5">
@@ -103,7 +103,7 @@ export default function Support() {
                 )}
             </div>
             {/* Main Section - For Support Form */}
-            <main className="transition-all duration-300 bg-white rounded-xl shadow-sm bg-white px-10 py-7 rounded-xl max-w mb-15 mt-10">
+            <main className="transition-all duration-300 bg-white rounded-xl shadow-sm bg-white px-10 py-7 rounded-xl max-w-sm sm:max-w-3xl mb-15 mt-10">
                 <h3 className="sm:text-center font-bold text-3xl mb-1 sm:mb-0 text-[#0464C4]">
                     Request Support
                 </h3>

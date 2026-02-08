@@ -26,7 +26,7 @@ A concept-level healthcare support portal designed for NGOs to collect, understa
 
 ## Live Demo
 
-[Add your deployed link here — Vercel / Netlify / Render]
+Deployed link here — https://carebridge-ai.vercel.app
 
 ---
 
@@ -90,7 +90,7 @@ This AI-based automation helps by:
    - Category
    - Urgency
    - Auto-response
-5. The response is displayed as an AI-generated support acknowledgment card
+5. The response is displayed as an Instant support acknowledgment card
 
 ---
 
